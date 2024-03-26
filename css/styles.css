@@ -38,7 +38,7 @@ main .profile-avatar {
   width: 90px;
   height: 90px;
   border-radius: 100%;
-  margin-bottom: 23px;
+  margin-bottom: 25px;
 }
 main .profile-name {
   color: hsl(0, 0%, 100%);
