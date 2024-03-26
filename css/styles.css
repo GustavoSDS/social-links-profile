@@ -38,12 +38,12 @@ main .profile-avatar {
   width: 90px;
   height: 90px;
   border-radius: 100%;
-  margin-bottom: 24px;
+  margin-bottom: 23px;
 }
 main .profile-name {
   color: hsl(0, 0%, 100%);
   font-weight: 700;
-  font-size: 25px;
+  font-size: 24px;
   letter-spacing: -0.01em;
   height: fit-content;
 }
