@@ -41,13 +41,13 @@ main .profile-avatar {
 }
 main .profile-name {
   color: hsl(0, 0%, 100%);
-  font-weight: 400;
+  font-weight: 700;
   font-size: 25px;
   letter-spacing: -0.01em;
   height: fit-content;
 }
 main .profile-city {
-  font-weight: 400;
+  font-weight: 700;
   font-size: 14px;
   letter-spacing: 0.015em;
   color: hsl(75, 94%, 57%);
@@ -76,7 +76,7 @@ main .social-links-link {
   text-decoration: none;
   display: grid;
   place-content: center;
-  font-weight: 700;
+  font-weight: 600;
 }
 main .social-links-link:hover {
   background-color: hsl(75, 94%, 57%);
@@ -86,7 +86,7 @@ main .social-links-link:hover {
   main {
     width: 384px;
     height: 610px;
-    padding: 38px;
+    padding: 40px;
     margin-top: 175px;
   }
   main .profile {
