@@ -52,7 +52,6 @@ main .profile-name {
 main .profile-city {
   font-weight: 700;
   font-size: 14px;
-  letter-spacing: 0.015em;
   color: hsl(75, 94%, 57%);
   margin-top: 10px;
 }
