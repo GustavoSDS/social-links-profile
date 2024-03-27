@@ -12,7 +12,7 @@ header, nav, footer {
 body {
   font-family: Inter;
   font-size: 14px;
-  background-color: hsl(0, 0%, 8%);
+  background-color: #f1f2f6;
 }
 
 main {
@@ -21,7 +21,7 @@ main {
   margin: 117px auto 0;
   padding: 24px;
   border-radius: 12px;
-  background-color: hsl(0, 0%, 12%);
+  background-color: #fff;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
@@ -41,7 +41,7 @@ main .profile-avatar {
   margin-bottom: 23px;
 }
 main .profile-name {
-  color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 8%);
   font-weight: 700;
   font-size: 24px;
   letter-spacing: -0.01em;
@@ -52,13 +52,13 @@ main .profile-name {
 main .profile-city {
   font-weight: 700;
   font-size: 14px;
-  color: hsl(75, 94%, 57%);
+  color: #218c74;
   margin-top: 10px;
 }
 main .profile-description {
   font-weight: 400;
   font-size: 14px;
-  color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 8%);
   margin-top: 26px;
 }
 main .social-links {
@@ -71,18 +71,18 @@ main .social-links {
 main .social-links-link {
   height: 45px;
   width: 100%;
-  background-color: hsl(0, 0%, 20%);
+  background-color: #1abc9c;
   border-radius: 8px;
   text-align: center;
-  color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 8%);
   text-decoration: none;
   display: grid;
   place-content: center;
   font-weight: 600;
 }
 main .social-links-link:hover {
-  background-color: hsl(75, 94%, 57%);
-  color: hsl(0, 0%, 8%);
+  background-color: #218c74;
+  color: #f1f2f6;
 }
 @media screen and (min-width: 768px) {
   main {
